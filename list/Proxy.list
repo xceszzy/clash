@@ -23,6 +23,9 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,speedtest.net
+
 
 # 小牛机场
 DOMAIN-SUFFIX,vns735p8.xyz
